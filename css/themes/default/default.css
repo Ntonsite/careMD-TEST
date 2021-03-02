@@ -11,7 +11,10 @@ body {
 	font-size: 12px;
 	font-weight: normal;
 	color: #000088;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNj5Z6tiAnmo4cKdmZowjbGUuoeraAmMu9g&usqp=CAU");
+	background-repeat: no-repeat;
 }
+
 /* default table design */
 table {
 	font-family: verdana, arial, tahoma;

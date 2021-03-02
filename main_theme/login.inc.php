@@ -1,9 +1,6 @@
 <div class="container">
     <div class="row">
-        <div class="col-md-4">
-            <img class="rounded float-left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNj5Z6tiAnmo4cKdmZowjbGUuoeraAmMu9g&usqp=CAU" alt="Doctor">
-        </div>
-        <div class="col-md-8">
+        <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
                 <div class="panel-heading">Login</div>
                 <div class="panel-body">
